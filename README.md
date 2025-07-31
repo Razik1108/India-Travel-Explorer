@@ -225,10 +225,6 @@ india-travel-explorer/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **APIs**: Thanks to Groq, OpenWeather, Unsplash, Roboflow, and Geoapify
@@ -236,12 +232,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Data**: Indian tourism and cultural information sources
 - **Icons**: Font Awesome and Emoji contributors
 
-## 📞 Support
-
-For support, please open an issue on GitHub or contact [mandadivarunreddy339658@gmail.com](mailto:mandadivarunreddy339658@gmail.com)
-.
-
----
-
-**Made with ❤️ for exploring Incredible India**
 # India-Travel-Explorer
