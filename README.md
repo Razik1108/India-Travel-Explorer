@@ -85,8 +85,8 @@ A comprehensive web application for exploring India's rich travel destinations, 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/varun339658/travel_new_website.git
-   cd india-travel-explorer
+   git clone https://github.com/Razik1108/ India-Travel-Exploser.git
+   cd India-Travel-Exploser
    ```
 
 2. **Install dependencies**
