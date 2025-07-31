@@ -2,7 +2,9 @@ Project Link = https://lnkd.in/gwvRDvjA
 
 # India Travel Explorer 🇮🇳
 
-A comprehensive web application for exploring India's rich travel destinations, featuring an interactive map, AI-powered travel assistant, and monument recognition capabilities.
+"India Travel Explorer is a comprehensive full-stack web application I built to showcase Indian travel destinations using interactive technology and AI. The platform includes an interactive map built with Leaflet.js to explore Indian states and tourist hotspots. It integrates a smart AI travel assistant using the Groq API (LLaMA 3) for personalized recommendations, itinerary planning, and real-time information like weather and images.
+
+One unique feature is the monument recognition system where users can upload images, and the app uses Roboflow's computer vision API to identify monuments and provide historical details. The backend is powered by Flask and MongoDB, with RESTful APIs managing communication between services. I focused on responsive design, performance optimization, and security best practices like API key management and caching. The entire app was designed with scalability, UX, and modularity in mind."
 
 ## 🌟 Features
 
